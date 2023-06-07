@@ -1,0 +1,14 @@
+{
+  "name": "EDWARDS_BFZ-BARTON_SPRINGS-TRANSIENT-1989_1998_v1",
+  "description": "Groundwater flow model developed for the Barton Springs segment of the Edwards Aquifer developed by the Bureau of Economic Geology, TWDB and Barton Springs Edwards Aquifer Conservation District. This region is hydrologically distinct from other parts of the Edwards Aquifer and is a major source of water.",
+  "metadata": {
+    "temporal_coverage": {
+      "start_time": "1989-01-01T00:00:00",
+      "end_time": "1998-01-01T00:00:00"
+    },
+    "datatype": "modflow"
+  },
+  "resources": "resources_Barton.json",
+  "variables": "variables_Barton.json"
+}
+

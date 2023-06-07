@@ -1,0 +1,26 @@
+[
+   {
+      "data_url": "https://tacc.mint.isi.edu/texas/models/configure/MODFLOW/modflow_2005/modflow_2005_cfg/75e7e090-de07-42f4-a652-8202a8b1bd2e", 
+      "name": "EDWARDS_BFZ-BARTON_SPRINGS-TRANSIENT-1989_1998", 
+      "resource_type": "model", 
+      "metadata": {
+         "spatial_coverage": {"type":"BoundingBox","value":{"xmax":-97,"xmin":-99,"ymax":31,"ymin":29}}, 
+         "temporal_coverage": {
+            "start_time": "1989-01-01T00:00:00", 
+            "end_time": "1998-01-01T00:00:00"
+         }
+      }
+   },
+   {
+      "data_url": "https://portals-api.tacc.utexas.edu/postits/v2/38e48b08-b6bc-44e9-b105-f8063289d890-010", 
+      "name": "EDWARDS_BFZ-BARTON_SPRINGS-TRANSIENT-1989_1998.zip", 
+      "resource_type": "Input data zip file", 
+      "metadata": {
+         "spatial_coverage": {"type":"BoundingBox","value":{"xmax":-97,"xmin":-99,"ymax":31,"ymin":29}}, 
+         "temporal_coverage": {
+            "start_time": "1989-01-01T00:00:00", 
+            "end_time": "1998-01-01T00:00:00"
+         }
+      }
+   }
+]

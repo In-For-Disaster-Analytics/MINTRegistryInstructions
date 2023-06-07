@@ -1,0 +1,70 @@
+[
+    {
+        "name": "elevation",
+        "metadata": {
+            "label": "elevation",
+            "units": "ft",
+            "data_type": "float",
+            "type": "numerical.continuous"
+        },
+        "standard_variables": [
+            {
+                "name": "aquifer_elevation",
+                "ontology": "SVO",
+                "uri": "http:\/\/www.geoscienceontology.org\/svo\/svl\/variable#%28ground%40medium_water%29%40role%7Emain_water%40role%7aquifer_elevation",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "Horizontal hydraulic conductivity",
+        "metadata": {
+            "label": "Horizontal hydraulic conductivity",
+            "units": "ft/d",
+            "data_type": "float",
+            "type": "numerical.continuous"
+        },
+        "standard_variables": [
+            {
+                "name": "aquifer_horizontal_hydraulic_conductivity",
+                "ontology": "SVO",
+                "uri": "http:\/\/www.geoscienceontology.org\/svo\/svl\/variable#%28ground%40medium_water%29%40role%7Emain_water%40role%7aquifer_horizontal_hydraulic_conductivity",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "specific yield",
+        "metadata": {
+            "label": "specific yield",
+            "units": "",
+            "data_type": "float",
+            "type": "numerical.continuous"
+        },
+        "standard_variables": [
+            {
+                "name": "aquifer_specific_yield",
+                "ontology": "SVO",
+                "uri": "http:\/\/www.geoscienceontology.org\/svo\/svl\/variable#%28ground%40medium_water%29%40role%7Emain_water%40role%7aquifer_specific_yield",
+                "description": ""
+            }
+        ]
+    },
+    {
+        "name": "specific storage",
+        "metadata": {
+            "label": "specific storage",
+            "units": "ft-1",
+            "data_type": "float",
+            "type": "numerical.continuous"
+        },
+        "standard_variables": [
+            {
+                "name": "aquifer_specific_storage",
+                "ontology": "SVO",
+                "uri": "http:\/\/www.geoscienceontology.org\/svo\/svl\/variable#%28ground%40medium_water%29%40role%7Emain_water%40role%7aquifer_specific_storage",
+                "description": ""
+            }
+        ]
+    }
+]
